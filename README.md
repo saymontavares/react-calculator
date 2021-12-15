@@ -43,4 +43,4 @@ $ npm run dev
 
 - GitHub [@saymontavares](https://github.com/saymontavares)
 
-Thank You!
+Thank You, developed by Saymon Tavares!
