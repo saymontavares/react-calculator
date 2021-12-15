@@ -6,8 +6,37 @@ A calculator styled after iPhone calculator. It does what you expect it to: add,
 
 Go wild. Do math.
 
-## Table of Contents
+### Table of Contents
 
 - [Overview](#overview)
+- [Demo](#demo)
+- [Built](#built-with)
+- [How To Use](#how-to-use)
+- [Contact](#contact)
 
-## Overview
+### Overview
+![screenshot](public/Overview.gif)
+
+### Demo
+[Click Here!](https://react-calculator-iphone.netlify.app)
+
+### Built With
+- [ReactJS](https://reactjs.org/)
+- [ViteJS](https://vitejs.dev/)
+
+### How To Use
+To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+```bash
+# Clone this repository
+$ git clone https://github.com/saymontavares/react-calculator.git
+# Install dependencies
+$ npm i
+# Run the app
+$ npm run dev
+```
+
+## Contact
+
+- GitHub [@saymontavares](https://github.com/saymontavares)
+
+Thank You!
