@@ -29,8 +29,12 @@ To clone and run this application, you'll need Git and Node.js (which comes with
 ```bash
 # Clone this repository
 $ git clone https://github.com/saymontavares/react-calculator.git
+```
+```bash
 # Install dependencies
 $ npm i
+```
+```bash
 # Run the app
 $ npm run dev
 ```
